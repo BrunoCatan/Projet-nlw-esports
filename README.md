@@ -45,14 +45,16 @@ Projeto de uma aplicação de contro de duo para games online, web e mobile com 
 ## Tecnologias utilizadas
 
 - React;
+- vite
 - React Native;
+- Expo
 - Node.js;
 - TypeScript;
-- TailwindCss;
+- Tailwind CSS;
 - Express;
 - Prisma;
 - Radix UI;
-- Sqlite;
+- SQlite;
 
 ---
 
