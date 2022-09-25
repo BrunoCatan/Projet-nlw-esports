@@ -1,6 +1,6 @@
 ## 📝 Evento Nlw eSports
 
-Projeto de uma aplicação de contro de duo para games online, web e mobile com intersecção de front-end e back-end
+Projeto de uma aplicação de encontro de duo para games online, web e mobile com intersecção de front-end e back-end
 
 ## 💻 Screenshot do projeto
 
@@ -15,7 +15,7 @@ Projeto de uma aplicação de contro de duo para games online, web e mobile com 
 
 ##
 
-<h3> - Designer Mobile </h3><br>
+<h3> - Designer Web</h3><br>
 
 <div style="align-items: center;">
     <img src="https://user-images.githubusercontent.com/75697499/191372936-034c8614-98ee-4e66-b1a2-0d82ced799fe.png">
