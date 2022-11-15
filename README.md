@@ -60,8 +60,8 @@ Projeto de uma aplicação de encontro de duo para games online, web e mobile co
 
 <div align="center">
   <h3> Developed by <a href="https://www.linkedin.com/in/brunocatan/">Bruno Catan</a> ☕</h3>
-  <a href="https://www.linkedin.com/in/brunocatan/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/C850F2/linkedin-circled--v1.png"></a>
-  <a href="https://wa.me/+5517992817472" target="_blank"><img src="https://img.icons8.com/ios-glyphs/32/C850F2/whatsapp.png"></a>
-  <a href = "mailto:devbrunocatan@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/32/C850F2/gmail.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunocatan/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/696969/linkedin-circled--v1.png"></a>
+  <a href="https://wa.me/+5517992817472" target="_blank"><img src="https://img.icons8.com/ios-glyphs/32/696969/whatsapp.png"></a>
+  <a href = "mailto:devbrunocatan@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/32/696969/gmail.png" target="_blank"></a>
 </div>
 
